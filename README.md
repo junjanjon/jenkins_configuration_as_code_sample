@@ -3,7 +3,7 @@
 
 Jenkins Configuration as Code を使って Jenkins を起動するサンプルリポジトリ。
 
-参考記事: WIP
+参考記事: https://tech.drecom.co.jp/ac2020-start-jenkins-configuration-as-code-life/
 
 # 起動方法
 
